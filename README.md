@@ -1,18 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22110
-Fork on GitHub
-7072
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 preview
 <h1 align="center">Hi 🙋‍♂️, I'm Madhan Singh 🧑‍💻</h1>
 <h3 align="center">A passionate enthusistic developer ready to work on various domain and learn something new!</h3>
