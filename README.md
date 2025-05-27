@@ -43,7 +43,14 @@
 
 <img align="right" height="150" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif"  />
 
-<p align="left">- 📚 I'm currently learning various domains with various frameworks and DSA Algorithms<br>- ⚡ In my free time, I  used to learn something new! <br>-  💭 Skilled in Java Programming , Groovy , Python Programming , Front-End Devlopment and Data Analytics.<br>-  🤩  Intersted to work in various Domains and Learn new.<br>Reach me on the above links below the image.</p>
+<p align="left">
+  - 📚 I'm currently learning various domains with various frameworks and DSA Algorithms<br>
+  - ⚡ In my free time, I used to learn something new! <br>
+  - 💭 Skilled in Java Programming, Groovy, Python Programming, Front-End Development, and Data Analytics.<br>
+  - 🔗 Portfolio: <a href="https://madhan-portfolio-two.vercel.app/" target="_blank">https://madhan-portfolio-two.vercel.app/</a><br>
+  - 🤩 Interested to work in various domains and learn new.<br>
+  Reach me on the above links below the image.
+</p>
 
 
 </div>
@@ -116,7 +123,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
 </div>
 
 ###
