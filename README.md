@@ -44,13 +44,18 @@
 <img align="right" height="150" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif"  />
 
 <p align="left">
-  - 📚 I'm currently learning various domains with various frameworks and DSA Algorithms<br>
-  - ⚡ In my free time, I used to learn something new! <br>
-  - 💭 Skilled in Java Programming, Groovy, Python Programming, Front-End Development, and Data Analytics.<br>
-  - 🔗 Portfolio: <a href="https://madhan-portfolio-two.vercel.app/" target="_blank">https://madhan-portfolio-two.vercel.app/</a><br>
-  - 🤩 Interested to work in various domains and learn new.<br>
-  Reach me on the above links below the image.
+  - 🎯 Aspiring Software Developer passionate about building and learning.<br>
+  - 📚 Currently learning Data Structures, Algorithms, and modern frameworks.<br>
+  - 💡 Constantly exploring new tech, tools, and programming paradigms.<br>
+  - 💻 Skilled in **Java**, **Groovy**, **Python**, **Web Development**, and **Data Analytics**.<br>
+  - 🌐 Portfolio: [madhan-portfolio-two.vercel.app](https://madhan-portfolio-two.vercel.app/) <br>
+  - 🚀 Always eager to work across different domains and grow as a developer.<br>
 </p>
+<!-- <div>
+  <img align="right" height="150" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" />
+  
+
+</div> -->
 
 
 </div>
@@ -61,10 +66,10 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
@@ -109,10 +114,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img width="12" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
