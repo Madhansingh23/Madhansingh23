@@ -48,7 +48,7 @@
   - 📚 Currently learning Data Structures, Algorithms, and modern frameworks.<br>
   - 💡 Constantly exploring new tech, tools, and programming paradigms.<br>
   - 💻 Skilled in **Java**, **Groovy**, **Python**, **Web Development**, and **Data Analytics**.<br>
-  - 🌐 Portfolio: [madhan-portfolio-two.vercel.app](https://madhan-portfolio-two.vercel.app/) <br>
+  - 🌐 Portfolio: [madhansingh-portfolio.vercel.app](https://madhansingh-portfolio.vercel.app/) <br>
   - 🚀 Always eager to work across different domains and grow as a developer.<br>
 </p>
 <!-- <div>
