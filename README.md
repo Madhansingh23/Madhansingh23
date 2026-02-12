@@ -47,8 +47,9 @@
   - 🎯 Aspiring Software Developer passionate about building and learning.<br>
   - 📚 Currently learning Data Structures, Algorithms, and modern frameworks.<br>
   - 💡 Constantly exploring new tech, tools, and programming paradigms.<br>
-  - 💻 Skilled in **Java**, **Groovy**, **Python**, **Web Development**, and **Data Analytics**.<br>
+  - 💻 Skilled in Java , Javascript, Python, Web Development, and Data Analytics.<br>
   - 🌐 Portfolio: [madhansingh-portfolio.vercel.app](https://madhansingh-portfolio.vercel.app/) <br>
+  - 📂 Resume : https://drive.google.com/file/d/1cEeTqq_-5HKJ-hd5OC0rj4LzOBnaqH-x/view?usp=drivesdk
   - 🚀 Always eager to work across different domains and grow as a developer.<br>
 </p>
 <!-- <div>
